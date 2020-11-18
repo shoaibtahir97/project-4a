@@ -1,0 +1,52 @@
+body {
+    background-color: rgb(138, 209, 236);
+    width: 100%;
+    height: 25%;
+}
+
+.jet {
+    width: 400px;
+    position: absolute;
+    left: 68%;
+    top:30%;
+}
+
+.helicopter {
+    width: 250px;
+    position: absolute;
+    left: 10%;
+    bottom: 20%;
+    z-index: 9;
+
+}
+
+.image4 {
+    width: 10%;
+    right: 50%;
+    top: 10%;
+    position: absolute;
+    /* z-index: 4; */
+}
+
+.image5, .image6 {
+    position: relative;
+    top: 15%;
+    width: 13%;
+}
+
+.bird1 {
+    position: realtive;
+    top: -70%;
+    bottom: 8%;
+}
+
+.bird2 {
+    position: realtive;
+    top: 40%;
+}
+
+.bird3 {
+    position: realtive;
+    top: 20%;
+
+}
